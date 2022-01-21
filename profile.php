@@ -1,6 +1,6 @@
 <?php
 
-$con = mysqli_connect("localhost","root","3519","CHA");
+$con = mysqli_connect("localhost","root","Password#","CHA");
 $table = "hunt";
 
 //profile data
